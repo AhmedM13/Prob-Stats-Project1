@@ -1,0 +1,9 @@
+Hand Type,Count,Probability
+Pairs,4234,0.4234
+Three of a Kind,212,0.0212
+Four of a Kind,4,4.0E-4
+Straights,30,0.003
+Flushs,20,0.002
+Full Houses,16,0.0016
+Straight Flushes,1,1.0E-4
+Royal Flushes,0,0.0

@@ -1,0 +1,1001 @@
+CarType,Year,Color,Miles
+Sedan , 2020 , white , 245297
+Mini Van , 1998 , pink , 211783
+Sedan , 1980 , red , 62102
+Coupe , 2007 , red , 45164
+Pick-up , 2019 , pink , 47818
+Mini Van , 1986 , red , 103115
+Sedan , 1975 , white , 207529
+Sedan , 1989 , red , 124537
+Sedan , 2014 , red , 33993
+Sedan , 1991 , white , 154448
+Pick-up , 2016 , white , 125630
+Sedan , 1995 , red , 53290
+Coupe , 2001 , white , 149483
+Pick-up , 1987 , pink , 16375
+Coupe , 2001 , blue , 235454
+SUV , 2017 , pink , 14482
+Mini Van , 1986 , red , 249652
+Coupe , 2021 , red , 147892
+Coupe , 1995 , red , 59278
+Sedan , 1991 , white , 244315
+Sedan , 1987 , blue , 36025
+SUV , 2017 , red , 33974
+SUV , 1997 , white , 106701
+Sedan , 1995 , blue , 222717
+Sedan , 1999 , pink , 168905
+Sedan , 2018 , white , 34919
+SUV , 1980 , blue , 125213
+Coupe , 2003 , blue , 109669
+Pick-up , 1990 , red , 245522
+Sedan , 2017 , red , 206280
+Sedan , 1974 , pink , 52503
+Pick-up , 2005 , pink , 188040
+Mini Van , 2009 , black , 178727
+Pick-up , 1988 , white , 221670
+Sedan , 2002 , black , 178409
+Pick-up , 1999 , red , 92142
+Pick-up , 1975 , pink , 229128
+Coupe , 2022 , white , 125632
+Mini Van , 2021 , red , 165250
+Coupe , 2001 , black , 221166
+SUV , 2019 , black , 62368
+Pick-up , 1998 , black , 161659
+Coupe , 1975 , red , 195784
+Pick-up , 2003 , black , 178438
+Mini Van , 2010 , red , 47057
+SUV , 1976 , blue , 163284
+Sedan , 2015 , black , 35864
+Coupe , 1985 , red , 48374
+Sedan , 1998 , red , 177517
+Sedan , 2020 , white , 117891
+Sedan , 1990 , white , 68438
+SUV , 2003 , blue , 240432
+Sedan , 2007 , blue , 124849
+Sedan , 1974 , red , 127543
+Sedan , 2017 , blue , 47984
+Coupe , 1986 , red , 197690
+SUV , 1975 , white , 37421
+Coupe , 1987 , red , 89050
+Sedan , 1986 , black , 19794
+Sedan , 2012 , blue , 238539
+Sedan , 1977 , pink , 31946
+Coupe , 2018 , red , 155459
+Sedan , 2003 , black , 66464
+Sedan , 1998 , white , 165817
+SUV , 1999 , blue , 183885
+Sedan , 1993 , blue , 238249
+Sedan , 1985 , red , 61790
+Sedan , 2010 , blue , 74001
+SUV , 1986 , red , 20684
+Sedan , 1998 , red , 175356
+Mini Van , 1986 , white , 8321
+SUV , 1993 , red , 152647
+Mini Van , 2005 , blue , 138981
+Coupe , 2016 , black , 36312
+Coupe , 2013 , blue , 51442
+Sedan , 1981 , white , 102592
+SUV , 2013 , red , 162402
+Sedan , 1976 , blue , 152793
+Mini Van , 2011 , red , 82375
+Sedan , 2015 , pink , 101465
+Pick-up , 2008 , black , 247832
+Mini Van , 1985 , black , 182565
+Sedan , 1973 , pink , 111451
+SUV , 1981 , pink , 72769
+Sedan , 2011 , blue , 169143
+SUV , 1977 , pink , 133019
+Sedan , 1995 , white , 61550
+Pick-up , 2004 , red , 81678
+Sedan , 2008 , red , 25267
+Coupe , 2012 , red , 15097
+Pick-up , 2009 , red , 225429
+Mini Van , 2001 , pink , 200290
+SUV , 1987 , black , 212136
+Pick-up , 1995 , red , 166032
+SUV , 1999 , red , 198939
+Coupe , 1986 , pink , 2171
+SUV , 2016 , red , 169083
+Sedan , 1981 , black , 148647
+Coupe , 1996 , red , 247043
+Coupe , 2019 , pink , 91884
+Sedan , 2003 , pink , 201385
+Mini Van , 1980 , red , 3771
+Mini Van , 1989 , blue , 201463
+Pick-up , 2004 , pink , 167201
+Sedan , 1991 , red , 176941
+Sedan , 1990 , black , 1610
+SUV , 1979 , red , 184718
+Sedan , 1984 , black , 105843
+SUV , 1978 , pink , 161802
+Pick-up , 1988 , black , 54636
+Sedan , 1980 , black , 97299
+Coupe , 2002 , pink , 213369
+Sedan , 1995 , red , 179175
+SUV , 2001 , white , 101141
+Pick-up , 2006 , red , 124145
+SUV , 1985 , white , 11204
+Coupe , 1990 , blue , 19991
+Coupe , 1997 , white , 209891
+SUV , 2005 , red , 210795
+Sedan , 2006 , red , 213380
+Coupe , 2019 , red , 226167
+Sedan , 2002 , blue , 152082
+SUV , 1984 , red , 102112
+Sedan , 1982 , black , 234086
+Coupe , 1989 , pink , 113440
+Coupe , 2004 , pink , 78215
+Sedan , 1997 , red , 56651
+Sedan , 1976 , blue , 186413
+Sedan , 2021 , pink , 166335
+Mini Van , 2021 , white , 133980
+Pick-up , 1991 , red , 17784
+SUV , 1993 , white , 27901
+SUV , 2007 , red , 84847
+Pick-up , 1979 , blue , 90980
+SUV , 2019 , red , 215741
+Mini Van , 2022 , blue , 75146
+Mini Van , 1983 , white , 78461
+SUV , 2001 , red , 62181
+Pick-up , 1979 , red , 220368
+SUV , 1999 , white , 230158
+Sedan , 1981 , red , 248852
+Sedan , 2007 , red , 41775
+Sedan , 2017 , pink , 105827
+Sedan , 2015 , red , 229173
+Sedan , 1981 , red , 169928
+Sedan , 1978 , white , 176646
+Sedan , 1989 , red , 59397
+SUV , 2008 , white , 43463
+SUV , 2017 , red , 143782
+Mini Van , 2015 , red , 246074
+Mini Van , 1976 , pink , 58746
+Sedan , 2011 , red , 105642
+Sedan , 1977 , pink , 128935
+Mini Van , 2020 , red , 195083
+Pick-up , 1990 , white , 211178
+SUV , 1992 , pink , 103250
+Pick-up , 2019 , white , 81336
+Coupe , 2016 , red , 209976
+Sedan , 1983 , blue , 217662
+Pick-up , 1996 , red , 25608
+Pick-up , 1976 , red , 243095
+Sedan , 2022 , red , 168975
+SUV , 2000 , blue , 217849
+Sedan , 1975 , white , 69119
+Sedan , 1974 , red , 55868
+SUV , 1985 , white , 144738
+Mini Van , 2013 , pink , 140432
+SUV , 1984 , red , 247943
+Mini Van , 1994 , red , 96722
+Coupe , 2011 , blue , 128404
+SUV , 2014 , red , 177882
+Mini Van , 1993 , pink , 153709
+Mini Van , 1975 , black , 201488
+Sedan , 2018 , white , 39674
+Sedan , 2017 , pink , 198115
+Sedan , 1999 , white , 98949
+SUV , 2000 , white , 9553
+Mini Van , 1993 , black , 180120
+Coupe , 2021 , red , 48869
+Mini Van , 2022 , black , 124734
+Mini Van , 1974 , red , 184183
+Coupe , 2014 , white , 31538
+Mini Van , 2017 , white , 4983
+Sedan , 1974 , blue , 94734
+Pick-up , 2021 , white , 153933
+Mini Van , 1989 , blue , 44627
+SUV , 1982 , black , 51858
+Mini Van , 1999 , blue , 94303
+Coupe , 2005 , pink , 16456
+Sedan , 1973 , red , 131592
+Pick-up , 2016 , red , 93221
+Sedan , 2003 , red , 93742
+Coupe , 2016 , pink , 238827
+Pick-up , 1991 , red , 70889
+Sedan , 1986 , white , 13371
+Coupe , 1984 , red , 7053
+Sedan , 1998 , black , 232161
+Sedan , 2011 , pink , 24667
+Coupe , 2022 , red , 194534
+Sedan , 2018 , black , 217574
+Mini Van , 2014 , white , 97377
+SUV , 2007 , red , 215569
+Sedan , 1982 , black , 7937
+Mini Van , 2009 , black , 189918
+SUV , 2016 , black , 158445
+SUV , 2002 , pink , 100626
+Mini Van , 1973 , red , 65738
+Sedan , 2009 , white , 176677
+Pick-up , 2015 , black , 140571
+Coupe , 1984 , red , 249888
+SUV , 2022 , red , 139585
+Mini Van , 2020 , red , 101300
+Pick-up , 1974 , pink , 23533
+Sedan , 1980 , blue , 32877
+Coupe , 1987 , black , 72088
+SUV , 1998 , pink , 89381
+Sedan , 2020 , blue , 215043
+Coupe , 1974 , red , 105614
+SUV , 1997 , white , 198092
+Coupe , 1993 , red , 166236
+Sedan , 1978 , blue , 61273
+Mini Van , 2022 , black , 189633
+Sedan , 1998 , red , 114457
+Coupe , 2008 , black , 155927
+Sedan , 2016 , red , 27098
+SUV , 2012 , red , 148786
+Sedan , 2020 , red , 29019
+Sedan , 2011 , red , 36599
+Sedan , 2010 , red , 76214
+Mini Van , 1994 , red , 141529
+Mini Van , 1979 , black , 138499
+Coupe , 1997 , red , 125707
+Sedan , 1978 , blue , 145469
+Pick-up , 1999 , red , 68201
+Coupe , 2006 , red , 179316
+Sedan , 2008 , red , 86956
+SUV , 2020 , white , 181226
+Sedan , 2014 , red , 227620
+Pick-up , 2010 , red , 138491
+Mini Van , 2021 , blue , 94567
+Pick-up , 1995 , black , 45354
+Mini Van , 2000 , white , 65770
+SUV , 2010 , black , 130840
+Pick-up , 2012 , red , 160279
+Sedan , 1973 , blue , 69881
+Sedan , 1988 , white , 142339
+Pick-up , 2016 , pink , 167737
+Pick-up , 2022 , black , 170157
+Sedan , 2008 , blue , 131407
+Sedan , 1988 , black , 86814
+Mini Van , 1990 , red , 35084
+Mini Van , 1983 , red , 74836
+Sedan , 2002 , blue , 111611
+Sedan , 2021 , pink , 231058
+Sedan , 1990 , white , 169060
+Sedan , 1994 , red , 117558
+Mini Van , 2015 , blue , 76967
+Mini Van , 2003 , red , 27979
+Sedan , 2003 , blue , 235361
+SUV , 2015 , red , 30592
+Coupe , 2001 , pink , 57039
+Coupe , 1993 , red , 56610
+Mini Van , 1974 , black , 61280
+Sedan , 1977 , red , 122961
+Mini Van , 1991 , black , 242005
+Sedan , 2012 , red , 159107
+Sedan , 2010 , pink , 190410
+Sedan , 2015 , red , 76668
+SUV , 1998 , red , 15615
+Coupe , 1996 , red , 49134
+Coupe , 1999 , blue , 246130
+Sedan , 2017 , black , 162340
+Sedan , 1977 , red , 32584
+SUV , 1989 , red , 98127
+Sedan , 2006 , red , 10887
+Pick-up , 1977 , blue , 103603
+Sedan , 2002 , blue , 18487
+Coupe , 2008 , red , 227336
+SUV , 2021 , red , 121150
+Mini Van , 2013 , pink , 13693
+Sedan , 1989 , red , 163884
+Coupe , 1982 , blue , 175085
+SUV , 1990 , red , 146116
+Sedan , 1983 , pink , 146674
+SUV , 1987 , pink , 128621
+SUV , 1979 , red , 127775
+Mini Van , 1993 , red , 37963
+Mini Van , 1991 , blue , 148643
+SUV , 1983 , red , 114733
+Pick-up , 2009 , blue , 198952
+Pick-up , 1981 , red , 184859
+Sedan , 2013 , black , 138612
+SUV , 1994 , blue , 161674
+SUV , 1973 , red , 105475
+Sedan , 1977 , red , 241596
+Pick-up , 1987 , pink , 167831
+Sedan , 1994 , red , 185804
+SUV , 1987 , blue , 13812
+SUV , 1975 , black , 156141
+Coupe , 2015 , red , 223958
+Sedan , 2016 , red , 203536
+Sedan , 2010 , red , 17712
+Mini Van , 1979 , red , 79997
+Sedan , 1976 , red , 66374
+Sedan , 1996 , red , 49225
+Coupe , 2002 , red , 157359
+Coupe , 1975 , red , 243393
+SUV , 1998 , blue , 247286
+Sedan , 1977 , red , 238632
+Sedan , 1997 , black , 229247
+Mini Van , 1982 , red , 94835
+Pick-up , 2020 , red , 141721
+Coupe , 2022 , black , 77021
+Sedan , 1995 , blue , 109237
+Mini Van , 1980 , red , 199337
+Coupe , 1975 , white , 128484
+Mini Van , 2014 , black , 75462
+Pick-up , 1998 , pink , 50627
+SUV , 2004 , pink , 32148
+Sedan , 1983 , white , 157901
+Pick-up , 1993 , red , 235786
+Pick-up , 1993 , red , 166634
+Pick-up , 2018 , black , 124312
+Sedan , 1982 , red , 36605
+Sedan , 2004 , white , 232101
+Coupe , 2013 , blue , 72755
+SUV , 1995 , blue , 184972
+Sedan , 1987 , red , 201484
+Sedan , 1987 , red , 109958
+Mini Van , 2017 , blue , 9488
+SUV , 1977 , blue , 44529
+Pick-up , 2004 , white , 125945
+SUV , 1974 , red , 44675
+Mini Van , 1989 , red , 109695
+Sedan , 1980 , red , 29939
+Coupe , 1986 , black , 93810
+Coupe , 1997 , red , 192035
+Mini Van , 1978 , red , 142944
+Sedan , 1976 , blue , 4577
+SUV , 2016 , red , 120584
+Pick-up , 1975 , red , 135466
+Coupe , 1986 , red , 187984
+Pick-up , 2012 , pink , 221389
+Sedan , 2010 , blue , 220573
+Mini Van , 1977 , black , 75739
+Mini Van , 1990 , red , 129768
+Pick-up , 2015 , white , 134451
+Coupe , 1986 , red , 136326
+SUV , 2002 , pink , 203758
+Mini Van , 1973 , pink , 143601
+Sedan , 1995 , red , 129443
+SUV , 2001 , red , 142147
+Sedan , 1993 , red , 91300
+Sedan , 1988 , blue , 249903
+Mini Van , 2019 , red , 205895
+SUV , 1999 , black , 225807
+Mini Van , 1974 , white , 201817
+Sedan , 1989 , black , 65899
+Coupe , 2007 , black , 110306
+Coupe , 2008 , red , 71384
+SUV , 1998 , black , 194037
+Coupe , 2004 , red , 149518
+SUV , 1989 , red , 38552
+Sedan , 2020 , blue , 61239
+SUV , 2017 , blue , 33170
+Pick-up , 1978 , red , 99206
+Pick-up , 1982 , red , 195821
+Mini Van , 2021 , red , 182048
+Coupe , 2007 , red , 69420
+Coupe , 2002 , red , 217656
+Coupe , 1999 , red , 19560
+Coupe , 2019 , red , 65382
+Pick-up , 2002 , red , 236356
+Mini Van , 1986 , red , 15968
+Sedan , 1973 , white , 15238
+SUV , 2022 , red , 110108
+Sedan , 2018 , red , 91782
+Coupe , 2013 , black , 77670
+Coupe , 1988 , white , 149292
+Sedan , 1998 , red , 54851
+SUV , 1978 , red , 65682
+Sedan , 1990 , blue , 148156
+Sedan , 1987 , black , 10972
+Pick-up , 2019 , red , 160392
+Sedan , 1974 , red , 99852
+Pick-up , 1987 , white , 205330
+SUV , 1998 , white , 149485
+SUV , 1987 , blue , 132128
+Mini Van , 1982 , red , 207693
+Sedan , 1982 , red , 64678
+Pick-up , 1978 , red , 136551
+Mini Van , 1994 , pink , 55866
+Coupe , 2000 , blue , 75245
+Pick-up , 1995 , red , 112409
+Sedan , 2019 , red , 47652
+Sedan , 2008 , pink , 214032
+Coupe , 2013 , black , 194524
+Pick-up , 1984 , white , 32245
+SUV , 2010 , black , 24315
+Pick-up , 2000 , blue , 167791
+Coupe , 2009 , blue , 13065
+Sedan , 1988 , pink , 132005
+Pick-up , 1976 , white , 99389
+Sedan , 1994 , red , 35113
+SUV , 2015 , black , 202965
+Sedan , 1980 , white , 97523
+Sedan , 1998 , blue , 109209
+Coupe , 2007 , red , 188156
+Sedan , 2016 , red , 245929
+Sedan , 1976 , blue , 218878
+Pick-up , 2004 , red , 61669
+Mini Van , 1985 , black , 186579
+Sedan , 2007 , red , 50414
+Sedan , 2016 , blue , 102383
+SUV , 2010 , red , 173018
+Mini Van , 1993 , red , 32997
+Sedan , 1992 , pink , 84229
+Pick-up , 1989 , white , 201864
+Sedan , 1995 , white , 153823
+Mini Van , 2015 , red , 80253
+SUV , 2014 , blue , 51596
+Sedan , 2014 , blue , 170225
+Sedan , 1980 , black , 94692
+Pick-up , 2000 , red , 63281
+Pick-up , 1995 , red , 110520
+Pick-up , 1976 , white , 76248
+Coupe , 2018 , red , 44653
+Sedan , 1994 , pink , 223604
+Sedan , 2018 , red , 97116
+Coupe , 2022 , red , 226313
+SUV , 2022 , blue , 20540
+Pick-up , 1974 , red , 211256
+Mini Van , 2010 , red , 164849
+Pick-up , 1981 , blue , 73047
+Sedan , 2000 , red , 152544
+Mini Van , 2011 , red , 119325
+Coupe , 1988 , red , 67829
+Coupe , 2019 , blue , 213081
+Sedan , 2011 , white , 91442
+SUV , 1974 , red , 74614
+Sedan , 2022 , red , 209265
+Coupe , 2006 , red , 243303
+Coupe , 2004 , blue , 196182
+SUV , 2006 , red , 25871
+SUV , 1994 , blue , 245997
+Sedan , 1993 , blue , 15217
+Pick-up , 1977 , black , 13934
+Sedan , 2018 , black , 166120
+Coupe , 1982 , blue , 183162
+Pick-up , 1997 , white , 119748
+Sedan , 2003 , white , 83776
+Sedan , 1989 , white , 143029
+Mini Van , 1993 , black , 112135
+SUV , 1994 , blue , 154535
+Sedan , 2009 , red , 89138
+Sedan , 1987 , pink , 81154
+SUV , 2013 , black , 88151
+Sedan , 1980 , pink , 192796
+Coupe , 2002 , white , 202564
+Coupe , 1996 , black , 8188
+Sedan , 2001 , white , 214058
+Pick-up , 2001 , blue , 169094
+Sedan , 2004 , red , 35087
+Pick-up , 2022 , pink , 220389
+Sedan , 2009 , pink , 13295
+Pick-up , 2005 , pink , 188946
+Mini Van , 2001 , white , 121632
+Mini Van , 1985 , white , 92598
+Sedan , 1990 , blue , 146095
+Sedan , 2011 , white , 13285
+Sedan , 2001 , red , 41845
+Pick-up , 1986 , red , 80604
+SUV , 1983 , red , 65047
+Coupe , 1995 , white , 64339
+SUV , 1977 , pink , 170657
+Mini Van , 2007 , pink , 83386
+Pick-up , 2019 , black , 150962
+Coupe , 1992 , red , 15706
+Sedan , 2012 , red , 145547
+Sedan , 2013 , red , 100633
+SUV , 1988 , red , 62961
+Sedan , 2014 , red , 174855
+Sedan , 1983 , pink , 81619
+SUV , 1999 , blue , 165443
+Sedan , 1986 , white , 6400
+SUV , 1973 , black , 84216
+Sedan , 2010 , blue , 84641
+Coupe , 2020 , pink , 100400
+Coupe , 1999 , pink , 214354
+Sedan , 2018 , black , 61580
+Sedan , 1976 , blue , 5853
+Mini Van , 2017 , pink , 114359
+SUV , 2008 , red , 184708
+Pick-up , 1984 , red , 168317
+Coupe , 1981 , red , 125297
+Sedan , 2003 , red , 200250
+Sedan , 1975 , red , 30375
+Sedan , 1999 , white , 63069
+Sedan , 2017 , black , 70297
+Sedan , 2006 , red , 214054
+SUV , 2001 , pink , 222206
+Coupe , 2022 , blue , 193203
+Sedan , 1991 , black , 44183
+Sedan , 2005 , pink , 7972
+SUV , 2020 , pink , 170558
+SUV , 1989 , blue , 167674
+Mini Van , 1984 , pink , 183196
+Sedan , 2020 , red , 60283
+Sedan , 2010 , white , 86073
+Pick-up , 1995 , red , 27227
+SUV , 2010 , red , 230059
+Sedan , 2019 , pink , 61634
+Coupe , 1979 , red , 79250
+Mini Van , 1979 , blue , 117836
+Sedan , 1986 , black , 203834
+Coupe , 2012 , red , 64126
+Mini Van , 1986 , blue , 51594
+SUV , 1974 , red , 45168
+Pick-up , 1998 , pink , 117919
+Mini Van , 2007 , blue , 239650
+Coupe , 1978 , red , 150298
+Pick-up , 1985 , white , 4464
+Sedan , 2004 , red , 162776
+Sedan , 1982 , pink , 116301
+Mini Van , 1991 , white , 101701
+Coupe , 2018 , blue , 100209
+SUV , 1988 , white , 67354
+Coupe , 1992 , blue , 51939
+Coupe , 2005 , white , 58304
+Sedan , 2019 , pink , 113261
+Coupe , 2005 , black , 144847
+Pick-up , 1991 , white , 51217
+Coupe , 1978 , red , 211642
+Coupe , 1977 , red , 91710
+Pick-up , 2002 , red , 47357
+Sedan , 1987 , pink , 173275
+Sedan , 1992 , red , 168616
+Pick-up , 1991 , red , 110900
+Coupe , 1986 , pink , 48613
+SUV , 1992 , red , 97268
+Sedan , 1992 , white , 56185
+Pick-up , 2007 , pink , 16522
+Mini Van , 2013 , white , 216630
+Sedan , 2000 , pink , 207483
+Pick-up , 2019 , blue , 163775
+Pick-up , 1979 , red , 108457
+SUV , 1976 , white , 183197
+Pick-up , 2019 , red , 126284
+Coupe , 1976 , red , 77001
+Mini Van , 1997 , pink , 166564
+SUV , 1974 , red , 159518
+Sedan , 2003 , red , 194408
+Mini Van , 1975 , blue , 73502
+Mini Van , 1995 , red , 114564
+Sedan , 1979 , pink , 41470
+Mini Van , 1990 , red , 89910
+Sedan , 2021 , red , 22458
+Sedan , 1990 , red , 234523
+Sedan , 1990 , red , 167678
+Coupe , 1983 , pink , 122098
+Pick-up , 2008 , red , 221288
+Sedan , 1986 , red , 40994
+Mini Van , 1974 , red , 35881
+SUV , 1980 , pink , 229638
+Sedan , 1982 , black , 72666
+Mini Van , 1992 , white , 140649
+Pick-up , 1980 , black , 77612
+Mini Van , 1981 , blue , 131873
+Mini Van , 2021 , black , 99437
+Pick-up , 1992 , red , 47503
+Mini Van , 1998 , red , 60308
+Pick-up , 1997 , blue , 123980
+Pick-up , 1983 , red , 36694
+Coupe , 1984 , red , 18264
+Pick-up , 1978 , red , 178287
+Pick-up , 1979 , red , 54011
+Coupe , 1985 , red , 36019
+Pick-up , 1973 , red , 214632
+SUV , 1993 , black , 65004
+Sedan , 1983 , pink , 59188
+Mini Van , 1999 , red , 35266
+SUV , 2018 , blue , 20117
+Coupe , 1995 , white , 125318
+Coupe , 1996 , black , 211148
+SUV , 1984 , red , 14756
+Sedan , 1989 , red , 155523
+Coupe , 1989 , red , 107230
+Sedan , 2012 , red , 12061
+Sedan , 2011 , white , 130932
+SUV , 2019 , red , 232992
+Coupe , 2002 , blue , 25015
+Sedan , 1984 , red , 226892
+Sedan , 2015 , pink , 187031
+Coupe , 2022 , white , 30529
+Mini Van , 1995 , red , 90148
+Coupe , 1982 , blue , 231809
+SUV , 1996 , black , 243007
+Mini Van , 1981 , red , 113867
+Mini Van , 2016 , black , 99812
+Sedan , 2016 , red , 202494
+Pick-up , 2001 , red , 87316
+Coupe , 1985 , black , 101190
+Mini Van , 1973 , red , 176936
+Sedan , 1975 , black , 33198
+SUV , 2001 , red , 60454
+SUV , 1991 , red , 183977
+Mini Van , 1996 , red , 48492
+Mini Van , 1988 , red , 73914
+Sedan , 1991 , pink , 114959
+Coupe , 2012 , red , 211930
+Coupe , 1982 , pink , 43983
+SUV , 1976 , pink , 14166
+SUV , 1982 , black , 214606
+Coupe , 2022 , black , 69241
+Coupe , 2002 , red , 213455
+SUV , 2009 , black , 136817
+Coupe , 1990 , pink , 69738
+SUV , 2015 , red , 185839
+Sedan , 1993 , blue , 233896
+Sedan , 1979 , red , 109997
+Coupe , 1984 , black , 174286
+Coupe , 2002 , red , 49188
+Sedan , 2015 , pink , 91833
+Sedan , 2002 , red , 226453
+Sedan , 2001 , red , 228712
+Sedan , 2002 , red , 98301
+Mini Van , 1976 , white , 47114
+SUV , 2013 , red , 21502
+Sedan , 1996 , red , 26653
+Sedan , 1991 , red , 176719
+Sedan , 2014 , red , 104357
+Sedan , 2005 , red , 241214
+Mini Van , 1991 , blue , 27310
+Sedan , 1995 , black , 65041
+Coupe , 2020 , red , 159220
+Sedan , 2021 , red , 179893
+Sedan , 1985 , white , 104579
+Sedan , 1992 , red , 181305
+Pick-up , 2016 , red , 233005
+Sedan , 2016 , red , 195788
+Sedan , 2008 , pink , 155854
+Mini Van , 2010 , blue , 132496
+Mini Van , 2009 , pink , 76155
+Coupe , 1988 , red , 210930
+Sedan , 2004 , black , 75137
+SUV , 2007 , red , 43376
+Sedan , 1980 , blue , 190766
+Sedan , 1990 , pink , 242704
+Sedan , 1993 , pink , 60762
+SUV , 1990 , black , 32964
+Mini Van , 1987 , red , 115595
+SUV , 1982 , blue , 235077
+Sedan , 2002 , pink , 49816
+Sedan , 2006 , white , 2383
+Mini Van , 2004 , red , 61120
+Coupe , 2003 , red , 224040
+Sedan , 2009 , black , 186607
+Mini Van , 2001 , white , 42071
+Coupe , 1983 , black , 100937
+Coupe , 1997 , black , 17862
+Pick-up , 2019 , red , 130320
+Mini Van , 2009 , blue , 135108
+Coupe , 2011 , pink , 243986
+Mini Van , 1987 , pink , 240844
+Pick-up , 2009 , red , 246986
+Sedan , 1985 , black , 100667
+Sedan , 2018 , red , 56509
+Sedan , 1995 , blue , 155773
+Sedan , 2012 , blue , 176779
+Mini Van , 1996 , red , 43405
+Sedan , 2018 , red , 146330
+Sedan , 2000 , red , 178460
+Sedan , 1984 , black , 236818
+Mini Van , 2005 , red , 139383
+SUV , 1980 , red , 115400
+Pick-up , 2008 , red , 111783
+Mini Van , 2018 , red , 85801
+Sedan , 1983 , white , 87264
+Sedan , 1986 , white , 105003
+Sedan , 2018 , black , 224049
+Pick-up , 2018 , red , 148638
+SUV , 1980 , red , 142691
+SUV , 1978 , blue , 128603
+Mini Van , 2014 , red , 12629
+Mini Van , 2022 , white , 116342
+Pick-up , 2018 , red , 201764
+Sedan , 2012 , red , 203302
+Sedan , 1995 , red , 114956
+Sedan , 1974 , red , 204662
+Sedan , 1984 , pink , 115146
+Coupe , 2005 , blue , 186919
+Sedan , 2019 , blue , 119968
+Sedan , 1987 , red , 125638
+Sedan , 1998 , pink , 134639
+Pick-up , 1999 , red , 95284
+Sedan , 2021 , blue , 129851
+Coupe , 2019 , black , 193096
+Sedan , 1990 , black , 62655
+Coupe , 1992 , red , 118532
+Sedan , 2001 , red , 163049
+Sedan , 1981 , white , 27564
+SUV , 2003 , red , 192928
+SUV , 2021 , pink , 223812
+Pick-up , 1973 , red , 110027
+Pick-up , 2012 , red , 120679
+Sedan , 2004 , black , 150881
+Sedan , 2016 , white , 75083
+Sedan , 1977 , blue , 70901
+Coupe , 2017 , blue , 136102
+Sedan , 2005 , red , 84809
+Sedan , 2015 , pink , 220932
+Sedan , 1981 , white , 73805
+Sedan , 1996 , red , 119118
+SUV , 2005 , black , 153017
+SUV , 2004 , red , 42968
+Mini Van , 2021 , blue , 240644
+Mini Van , 1978 , black , 231241
+Sedan , 1985 , red , 145815
+SUV , 2010 , blue , 152694
+Sedan , 1983 , blue , 36290
+Pick-up , 1977 , blue , 67407
+Sedan , 1999 , red , 25411
+Pick-up , 1984 , red , 118308
+Pick-up , 2003 , white , 80583
+Mini Van , 2021 , black , 110331
+Sedan , 1996 , pink , 185183
+Mini Van , 1994 , red , 245602
+Pick-up , 1980 , red , 46928
+SUV , 2000 , black , 68387
+Sedan , 1975 , red , 247610
+SUV , 1981 , red , 107358
+Mini Van , 1996 , pink , 239098
+Coupe , 2019 , blue , 236583
+Sedan , 1998 , white , 241515
+Sedan , 2019 , black , 7965
+Mini Van , 2007 , black , 207359
+Sedan , 2000 , red , 216605
+Sedan , 2018 , red , 89550
+Sedan , 2016 , pink , 140032
+SUV , 1982 , white , 83363
+Coupe , 2006 , white , 47616
+Coupe , 1976 , pink , 108815
+Sedan , 1974 , black , 232541
+Sedan , 1990 , red , 57309
+SUV , 1982 , black , 219820
+Sedan , 1986 , white , 118822
+SUV , 1998 , blue , 234141
+Pick-up , 1989 , red , 189269
+Coupe , 1995 , pink , 237013
+Mini Van , 2020 , red , 196423
+SUV , 1977 , red , 44302
+Sedan , 2006 , red , 215719
+Sedan , 1987 , pink , 161583
+Coupe , 1989 , pink , 184954
+Sedan , 1976 , red , 248036
+Sedan , 2021 , pink , 30716
+Sedan , 2019 , red , 170411
+Coupe , 2007 , red , 84505
+Coupe , 2011 , red , 4678
+SUV , 2003 , red , 90022
+SUV , 2007 , red , 18282
+Coupe , 1973 , red , 118245
+SUV , 2010 , black , 158689
+Pick-up , 1974 , pink , 55396
+Sedan , 2003 , white , 74481
+Coupe , 1997 , red , 63670
+SUV , 1987 , red , 185516
+Coupe , 2011 , black , 65137
+Mini Van , 1999 , red , 216903
+Pick-up , 2016 , white , 6561
+Coupe , 1985 , red , 28045
+Coupe , 2004 , red , 109602
+SUV , 1982 , red , 135968
+Sedan , 1997 , white , 19793
+Coupe , 1998 , white , 49491
+Sedan , 2007 , black , 11203
+SUV , 2016 , red , 146788
+Sedan , 1977 , blue , 35852
+Sedan , 2018 , pink , 244943
+Mini Van , 1999 , blue , 74916
+Mini Van , 2018 , white , 172911
+Sedan , 1978 , blue , 203202
+Mini Van , 2007 , red , 150621
+Sedan , 1989 , red , 45954
+Mini Van , 2013 , black , 137883
+Coupe , 2012 , white , 58868
+Sedan , 2022 , blue , 105524
+Pick-up , 1982 , red , 178776
+Sedan , 2022 , blue , 241462
+Mini Van , 2008 , pink , 43181
+Sedan , 1976 , red , 66387
+Sedan , 1983 , red , 15495
+SUV , 2003 , red , 92504
+Sedan , 1979 , blue , 28066
+Sedan , 2012 , black , 18994
+Mini Van , 1973 , red , 41845
+Coupe , 1994 , white , 114758
+Sedan , 1995 , blue , 121203
+SUV , 2012 , red , 98901
+Sedan , 2021 , black , 80072
+Sedan , 2013 , red , 108529
+Pick-up , 2016 , white , 30839
+Pick-up , 1999 , black , 101750
+Sedan , 2006 , black , 49499
+Mini Van , 1986 , blue , 172456
+Mini Van , 1996 , red , 90293
+Sedan , 1974 , red , 183921
+Coupe , 2005 , red , 242712
+Sedan , 2009 , red , 106475
+Coupe , 1976 , red , 89756
+SUV , 2013 , pink , 47080
+SUV , 2013 , red , 234472
+Coupe , 2018 , blue , 61974
+Coupe , 1974 , red , 227591
+Coupe , 1994 , red , 68323
+Mini Van , 1985 , pink , 83783
+Coupe , 1984 , pink , 22812
+Coupe , 2007 , pink , 239705
+Coupe , 1979 , black , 158192
+Sedan , 1980 , white , 59611
+Coupe , 1986 , pink , 120730
+SUV , 1981 , pink , 83282
+Coupe , 2001 , black , 20241
+Coupe , 2017 , blue , 37630
+Sedan , 1973 , red , 81992
+Coupe , 1999 , red , 169945
+Sedan , 1990 , white , 106919
+Sedan , 2008 , white , 36040
+Pick-up , 1985 , blue , 20219
+Coupe , 2004 , black , 62616
+Mini Van , 2007 , red , 83194
+Sedan , 2006 , red , 100169
+SUV , 1976 , blue , 185183
+Mini Van , 1988 , red , 243403
+Pick-up , 1981 , red , 105172
+Coupe , 1983 , white , 191539
+SUV , 1991 , pink , 145564
+SUV , 1998 , red , 104286
+Mini Van , 2008 , pink , 137243
+SUV , 2006 , pink , 104080
+Sedan , 2001 , black , 127131
+Sedan , 2012 , red , 130761
+Sedan , 1987 , red , 202888
+Sedan , 1977 , red , 199738
+Pick-up , 1975 , pink , 247357
+Mini Van , 2013 , pink , 192124
+Sedan , 1991 , blue , 129995
+Sedan , 2019 , red , 149455
+Sedan , 2017 , blue , 79964
+Coupe , 1980 , white , 121677
+SUV , 1976 , red , 123428
+Coupe , 1990 , blue , 133898
+Sedan , 2000 , red , 203691
+Mini Van , 2014 , red , 137766
+Sedan , 2005 , pink , 38663
+Mini Van , 2000 , blue , 177433
+Pick-up , 1992 , red , 5474
+Pick-up , 1997 , red , 908
+Pick-up , 1997 , white , 125128
+Sedan , 1973 , blue , 57256
+Sedan , 1994 , red , 129896
+Pick-up , 2009 , blue , 121796
+Sedan , 1986 , red , 2553
+Pick-up , 1997 , black , 123885
+Sedan , 2019 , red , 83753
+SUV , 1987 , white , 176396
+Sedan , 2011 , red , 50534
+Sedan , 2012 , black , 87143
+SUV , 2008 , pink , 248109
+Sedan , 1997 , pink , 131148
+Pick-up , 2000 , red , 111768
+Sedan , 1973 , black , 116331
+Coupe , 1985 , red , 95836
+Sedan , 1989 , red , 47429
+Coupe , 1979 , blue , 27068
+Sedan , 2010 , black , 46245
+Mini Van , 1990 , red , 229254
+Sedan , 1988 , red , 54647
+Coupe , 1987 , white , 190593
+Sedan , 1985 , red , 50776
+Pick-up , 1991 , pink , 222345
+Mini Van , 2002 , white , 99824
+Sedan , 1990 , red , 230106
+Sedan , 2008 , pink , 137527
+Sedan , 2004 , red , 195676
+Mini Van , 1998 , black , 199746
+SUV , 1986 , red , 88029
+SUV , 2017 , black , 12251
+Sedan , 2004 , red , 96031
+Coupe , 1982 , black , 16126
+Pick-up , 2002 , pink , 197120
+Sedan , 1992 , red , 56063
+Sedan , 2017 , white , 170667
+Mini Van , 2000 , pink , 67746
+Sedan , 1980 , red , 62196
+Sedan , 2003 , red , 124577
+Coupe , 1992 , black , 245951
+Pick-up , 2006 , red , 137537
+SUV , 2010 , blue , 80114
+Sedan , 1988 , white , 174994
+Sedan , 2018 , white , 13457
+Sedan , 2010 , red , 149990
+SUV , 2007 , white , 247282
+Coupe , 2014 , white , 193936
+SUV , 1978 , white , 69897
+Mini Van , 1988 , red , 66151
+Pick-up , 1982 , pink , 198553
+Pick-up , 2007 , black , 142870
+Pick-up , 2015 , red , 51692
+Sedan , 1978 , pink , 232529
+Sedan , 1977 , black , 64708
+Coupe , 1998 , pink , 182503
+Sedan , 2009 , black , 173535
+Pick-up , 2001 , red , 244219
+Sedan , 2022 , black , 130320
+Sedan , 2003 , red , 5237
+Coupe , 1973 , pink , 198788
+Coupe , 2018 , black , 221765
+Pick-up , 1981 , white , 140874
+Mini Van , 1994 , blue , 249650
+Pick-up , 1977 , black , 13305
+Mini Van , 2012 , pink , 223006
+Coupe , 2010 , blue , 103783
+Pick-up , 1998 , blue , 38079
+Mini Van , 2009 , black , 169001
+Coupe , 1982 , red , 203635
+Pick-up , 2011 , black , 69908
+Coupe , 1983 , red , 174247
+Mini Van , 1983 , blue , 180393
+Sedan , 2022 , red , 9042
+Sedan , 1999 , blue , 27644
+Sedan , 1976 , pink , 104902
+Sedan , 1982 , white , 2798
+Pick-up , 1980 , white , 173988
+Mini Van , 1974 , red , 108181
+SUV , 2022 , black , 143857
+SUV , 1993 , red , 63880
+Sedan , 2005 , black , 200312
+Coupe , 2007 , pink , 71891
+Sedan , 1973 , white , 200755
+SUV , 2011 , red , 39109
+Mini Van , 1998 , black , 1930
+SUV , 1973 , white , 212669
+SUV , 2022 , white , 100200
+SUV , 1974 , black , 179896
+Pick-up , 2010 , blue , 224181
+Sedan , 2010 , red , 11250
+Pick-up , 2009 , blue , 220584
+Mini Van , 2019 , blue , 248356
+Mini Van , 2003 , black , 164715
+Sedan , 2002 , blue , 187402
+Pick-up , 1989 , black , 227015
+Sedan , 1996 , blue , 4661
+Sedan , 1989 , pink , 240577
+SUV , 1980 , black , 195147
+Sedan , 1997 , pink , 38644
+SUV , 1998 , white , 112706
+Sedan , 2009 , pink , 90880
+SUV , 2008 , blue , 223080
+Sedan , 2016 , red , 143280
+Coupe , 1993 , blue , 48945
+Sedan , 1990 , black , 247244
+Coupe , 1973 , red , 205336
+SUV , 2001 , white , 37312
+Coupe , 1973 , red , 241239
+SUV , 2008 , white , 49303
+Sedan , 1992 , red , 94649
+SUV , 2021 , red , 114705
+SUV , 2002 , pink , 61117
+Mini Van , 2001 , pink , 174493
+Sedan , 2006 , red , 214290
+Coupe , 1981 , pink , 72816
+Pick-up , 1979 , red , 233029
+Coupe , 1977 , red , 221910
+Sedan , 1987 , red , 202748
+Coupe , 1984 , black , 244922
+Sedan , 2009 , red , 121846
+Sedan , 2018 , blue , 182610
+Coupe , 2001 , red , 56787
+Sedan , 2021 , red , 214625
+SUV , 2021 , pink , 50079
+Coupe , 2018 , red , 247462
+Mini Van , 1996 , red , 147230
+SUV , 1991 , red , 60256
+Pick-up , 2009 , red , 167278
+Coupe , 1996 , red , 173823
+Sedan , 2005 , white , 227295
+Sedan , 1999 , red , 221631
+SUV , 2008 , white , 112662
+Mini Van , 1984 , red , 173489
+Sedan , 1982 , white , 244921
+Sedan , 1974 , red , 249369
+Pick-up , 1998 , red , 28575
+Sedan , 1987 , blue , 231397
+Mini Van , 1975 , red , 140452
+SUV , 2000 , white , 92454
+Mini Van , 1986 , pink , 130130
+Coupe , 2007 , white , 4587
+Sedan , 1979 , blue , 129911
+Mini Van , 2010 , pink , 221061
